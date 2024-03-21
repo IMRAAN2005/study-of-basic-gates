@@ -90,10 +90,10 @@ endmodule
 ![DE TRUTHTABLE](https://github.com/IMRAAN2005/study-of-basic-gates/assets/149347407/33a17e93-99ec-4b85-889b-c7c55d23133a)
 
 
-![de new 1](https://github.com/IMRAAN2005/study-of-basic-gates/assets/149347407/708660d2-69d6-4c2b-b9c6-9588d1ce1fd4)
 
 ![de new 1](https://github.com/IMRAAN2005/study-of-basic-gates/assets/149347407/504acadf-12af-41a6-82c9-6a92b86185b6)
 
+![de new](https://github.com/IMRAAN2005/study-of-basic-gates/assets/149347407/57d1f9c2-6c15-4fd8-9116-23580d0ce8ef)
 
 
 **Result:**
